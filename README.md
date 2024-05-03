@@ -1,4 +1,14 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://www.edisonlee55.com"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
+</p>
+
+<h1 align="center">Hi, I'm <a href="https://dotafsprotfolio.com">DOTAFS</a>!🤗</h1>
+
+<p align="center">
+  <a href="https://github.com/dotafs2"><img src="https://github-readme-stats.vercel.app/api?username=dotafs2&hide_border=true&show_icons=true" alt="dotafs' github stats"></a>
+</p>
+
+<p align="center">I'm currently a master student focus on real-time rendering!</p>
 
 <!--
 **dotafs2/dotafs2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
