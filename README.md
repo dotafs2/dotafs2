@@ -2,7 +2,9 @@
   <a href="https://dotafsprotfolio.com"><img src="laopo.gif" alt="Banner"></a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://dotafsprotfolio.com">DOTAFS</a>!🤗</h1>
+<p align="center">
+  <a href="https://dotafsprotfolio.com"><img src="laopo.gif" alt="Banner" width="600" height="300"></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/dotafs2"><img src="https://github-readme-stats.vercel.app/api?username=dotafs2&hide_border=true&show_icons=true" alt="dotafs' github stats"></a>
