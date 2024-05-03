@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://dotafsprotfolio.com"><img src="laopo.gif" alt="Banner" width="1000"></a>
+  <a href="https://dotafsprotfolio.com"><img src="laopo.gif" alt="Banner" width="700"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://dotafsprotfolio.com">DOTAFS</a>!🤗</h1>
