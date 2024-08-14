@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm <a href="https://dotafsprotfolio.com">DOTAFS</a>!🤗</h1>
 
 <p align="center">
-  <a href="https://github.com/dotafs2"><img src="https://github-readme-stats.vercel.app/api?username=dotafs2&hide_border=true&show_icons=true" alt="dotafs' github stats"></a>
+  <a href="https://github.com/dotafs2"><img src="https://github-readme-stats.vercel.app/api?username=dotafs2&hide_border=true&show_icons=true&theme=radical" alt="dotafs' github stats"></a>
 </p>
 
 <p align="center">CG CG CG CG CG CG CG!</p>
