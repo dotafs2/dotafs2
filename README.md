@@ -8,7 +8,7 @@
   <a href="https://github.com/dotafs2"><img src="https://github-readme-stats.vercel.app/api?username=dotafs2&hide_border=true&show_icons=true" alt="dotafs' github stats"></a>
 </p>
 
-<p align="center">I'm currently a master student focus on real-time rendering!</p>
+<p align="center">CG CG CG CG CG CG CG!</p>
 
 <!--
 **dotafs2/dotafs2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
